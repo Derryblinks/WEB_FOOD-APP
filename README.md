@@ -85,3 +85,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ![alt text](Screenshots/12.png)
 ![alt text](Screenshots/13.png)
 ![alt text](Screenshots/14.png)
+
+### NAME OF AUTHOR : DERRICK BOATENG 
+### (UNIVERSITY OF GHANA LEGON)
+### (CONTACT 0592739947 / 0593705543)
+### (EMAIL DB723252@GMAIL.COM)
