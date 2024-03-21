@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### BELOW ARE SCREENSHOTS OF THE FOOD APP PROJECT BY DERRICK BOATENG 
+![alt text](<../../Website Screenshots/1.png>)
+![alt text](<../../Website Screenshots/2.png>)
+![alt text](<../../Website Screenshots/3.png>)
+![alt text](<../../Website Screenshots/4.png>)
+![alt text](<../../Website Screenshots/5.png>)
+![alt text](<../../Website Screenshots/6.png>)
+![alt text](<../../Website Screenshots/7.png>)
+![alt text](<../../Website Screenshots/8.png>)
+![alt text](<../../Website Screenshots/9.png>)
+![alt text](<../../Website Screenshots/10.png>)
+![alt text](<../../Website Screenshots/11.png>)
+![alt text](<../../Website Screenshots/12.png>)
+![alt text](<../../Website Screenshots/13.png>)
+![alt text](<../../Website Screenshots/14.png>)
