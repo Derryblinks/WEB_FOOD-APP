@@ -26,7 +26,7 @@ export default function ChiefsSection(){
     cuisine: "German",
 },
 {
-    name: "Rahina kayor Abubakar",
+    name: "Rahina kayor",
     img: "/Images/img_13.jpg",
     recipesCount: "10,",
     cuisine: "American",
